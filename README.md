@@ -4,7 +4,7 @@
 ##  Overview  
 demonstratetion a **Fully Undetectable (FUD) UAC Bypass** technique leveraging **DLL Side-Loading**. It works on **Windows 10 & 11**, allowing privilege escalation without triggering UAC prompt.
 
-Checking UAC
+Checking UAC:
 ```cmd
 reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA
 ```
