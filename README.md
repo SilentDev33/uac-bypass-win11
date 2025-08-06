@@ -33,7 +33,8 @@ Works on Windows 10 & 11.
 Tested with Kaspersky AV and Windows Defender (FUD). Can bypass almost all AV & EDR
 
 I can send a test version before purchase, so you can run your own tests with the target AV.
-[Demo video](https://github.com/username/repo/blob/main/demo.mp4)
+
+[Demo video](https://github.com/SilentDev33/uac-bypass-win11/blob/main/test.mp4)
 
 
 
