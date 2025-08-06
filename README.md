@@ -26,7 +26,17 @@ reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System /v Enab
 https://github.com/user-attachments/assets/1d710dd1-ac73-4e7e-8be7-12a3608b65fb
 
 
+An exploit is also available for bypassing UAC at the "Always Notify" level.
 
-ONLY FOR EDUCATIONAL PURPOSES
+Works on Windows 10 & 11.
+
+Tested with Kaspersky AV and Windows Defender (FUD).
+
+I will send a test version before purchase, so you can run your own tests with the target AV.
+
+
+
+
+
 
 
