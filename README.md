@@ -30,9 +30,10 @@ An exploit is also available for bypassing UAC at the "Always Notify" level.
 
 Works on Windows 10 & 11.
 
-Tested with Kaspersky AV and Windows Defender (FUD).
+Tested with Kaspersky AV and Windows Defender (FUD). Can bypass almost all AV & EDR
 
 I will send a test version before purchase, so you can run your own tests with the target AV.
+
 
 
 
