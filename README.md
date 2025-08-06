@@ -17,7 +17,7 @@ reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System /v Enab
  
   
   ## 🛒 Buy:  
-🔹 **Contact me https://t.me/lxst_century** u will resive full sourse code and help with building, and free test if u need
+🔹 **Contact me: https://t.me/mstr_and3rs0n** u will resive full sourse code and help with building, and free test if u need
 
 ##  PROOF ON WIN11 (from user to system)
 
