@@ -34,6 +34,8 @@ Tested with Kaspersky AV and Windows Defender (FUD). Can bypass almost all AV & 
 
 I can send a test version before purchase, so you can run your own tests with the target AV.
 
+DEMO VIDEO:  👇
+
 [![Demo video](req.png)](https://files.catbox.moe/rucons.mp4)
 
 
